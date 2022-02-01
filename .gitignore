@@ -1,0 +1,9 @@
+#TeX related gitignores
+*.tex
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+.DS_Store
